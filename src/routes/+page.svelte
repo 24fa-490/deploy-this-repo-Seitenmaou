@@ -17,6 +17,8 @@
 <span class=note>(uses db, so create the .env file as above)</span>
 <br/>
 <button on:click={() => {goto('/fromDBandComponents')}}>Use Components</button>
+<p style="color:white;">Hello world?</p>
+
 
 
 <style>
@@ -24,3 +26,5 @@
         font-style: italic;
     }
 </style>
+<a href="/brucetest1">Check out the new page</a>
+<a href="/brucetest2">Check out the new page</a>
