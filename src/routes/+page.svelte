@@ -17,6 +17,8 @@
 <span class=note>(uses db, so create the .env file as above)</span>
 <br/>
 <button on:click={() => {goto('/fromDBandComponents')}}>Use Components</button>
+<p style="color:white;">Hello world?</p>
+
 
 
 <style>
