@@ -24,4 +24,4 @@ _Comments and feedback welcome!_
 
 # Where am I deployed?
 
-https://deploy-this-repo-seitenmaou-r0qkmh5p2-seitenmaous-projects.vercel.app/
+https://deploy-this-repo-seitenmaou.vercel.app/
